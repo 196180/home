@@ -6,7 +6,7 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
+    "name": "图床",
     "link": "https://image.zcmu.us.kg/"
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "Github Start",
+    "link": "https://start.04.cloudns.org/"
   },
   {
     "icon": "LaptopCode",

@@ -33,10 +33,5 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://5.xjf.cloudns.org/status/web"
-  },
-    {
-    "icon": "Fire",
-    "name": "Github Start",
-    "link": "https://start.04.cloudns.org/"
-  },
+  }
 ]

@@ -6,7 +6,7 @@
   },
   {
     "icon": "Cloud",
-    "name": "图床",
+    "name": "网盘",
     "link": "https://image.zcmu.us.kg/"
   },
   {
@@ -38,5 +38,5 @@
     "icon": "Fire",
     "name": "Github Start",
     "link": "https://start.04.cloudns.org/"
-  }
+  },
 ]

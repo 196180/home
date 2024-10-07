@@ -5,8 +5,8 @@
     <div class="logo">
       <img class="logo-img" :src="siteLogo" alt="logo" />
       <div :class="{ name: true, 'text-hidden': true, long: siteUrl[0].length >= 6 }">
-        <span class="bg">XJF</span>
-        <span class="sm">.KKK</span>
+        <span class="bg">XJFKKK</span>
+        <span class="sm">.home</span>
       </div>
     </div>
     <!-- 简介 -->

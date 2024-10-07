@@ -6,7 +6,7 @@
       <img class="logo-img" :src="siteLogo" alt="logo" />
       <div :class="{ name: true, 'text-hidden': true, long: siteUrl[0].length >= 6 }">
         <span class="bg">{{ siteUrl[0] }}</span>
-        <span class="sm">.xjfkkk</span>
+        <span class="sm">.{{ siteUrl[xjfkkk] }}</span>
       </div>
     </div>
     <!-- 简介 -->
